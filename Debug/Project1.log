@@ -1,0 +1,38 @@
+﻿  Source.cpp
+C:\Users\amany\source\repos\Project1\Source.cpp(7,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\amany\source\repos\Project1\Source.cpp(12,43): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\amany\source\repos\Project1\Source.cpp(13,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\amany\source\repos\Project1\Source.cpp(14,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\amany\source\repos\Project1\Source.cpp(31,17): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\amany\source\repos\Project1\Source.cpp(31,13): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\amany\source\repos\Project1\Source.cpp(33,17): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\amany\source\repos\Project1\Source.cpp(33,13): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\amany\source\repos\Project1\Source.cpp(35,17): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\amany\source\repos\Project1\Source.cpp(35,13): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\amany\source\repos\Project1\Source.cpp(44,17): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\amany\source\repos\Project1\Source.cpp(44,13): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\amany\source\repos\Project1\Source.cpp(46,17): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\amany\source\repos\Project1\Source.cpp(46,13): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\amany\source\repos\Project1\Source.cpp(48,17): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\amany\source\repos\Project1\Source.cpp(48,13): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\amany\source\repos\Project1\Source.cpp(50,17): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\amany\source\repos\Project1\Source.cpp(50,13): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\amany\source\repos\Project1\Source.cpp(59,131): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\amany\source\repos\Project1\Source.cpp(62,128): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\amany\source\repos\Project1\Source.cpp(68,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\amany\source\repos\Project1\Source.cpp(71,122): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\amany\source\repos\Project1\Source.cpp(74,138): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\amany\source\repos\Project1\Source.cpp(77,116): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\amany\source\repos\Project1\Source.cpp(80,164): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\amany\source\repos\Project1\Source.cpp(83,166): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\amany\source\repos\Project1\Source.cpp(86,118): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\amany\source\repos\Project1\Source.cpp(92,120): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\amany\source\repos\Project1\Source.cpp(99,120): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\amany\source\repos\Project1\Source.cpp(104,116): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\amany\source\repos\Project1\Source.cpp(107,91): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\amany\source\repos\Project1\Source.cpp(110,91): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\amany\source\repos\Project1\Source.cpp(119,116): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\amany\source\repos\Project1\Source.cpp(122,91): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\amany\source\repos\Project1\Source.cpp(125,91): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\amany\source\repos\Project1\Source.cpp(136,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Project1.vcxproj -> C:\Users\amany\source\repos\Project1\Debug\Project1.exe
